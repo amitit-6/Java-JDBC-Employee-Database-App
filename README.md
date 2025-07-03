@@ -39,7 +39,7 @@ CREATE TABLE employee (
 1. Compile: `javac -cp .;mysql-connector-j-9.1.0.jar EmployeeDBApp.java`
 2. Run: `java -cp .;mysql-connector-j-9.1.0.jar EmployeeDBApp`
 
-## Your folder should look like:
+## 📦 Your folder should look like:
 
 1. D:\Elevate Labs Internship - 2025
     ├── `EmployeeDBApp.java`
